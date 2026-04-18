@@ -1,0 +1,10 @@
+# Datos — no subir por la consigna del lab
+datos/
+
+# Outputs generados
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
