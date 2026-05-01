@@ -1,9 +1,6 @@
 # Datos — no subir por la consigna del lab
 datos/
 
-# Outputs generados
-outputs/
-
 .idea/
 
 # Jupyter
