@@ -4,6 +4,8 @@ datos/
 # Outputs generados
 outputs/
 
+.idea/
+
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
