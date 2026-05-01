@@ -1,12 +1,10 @@
-# Datos — no subir por la consigna del lab
+archivos/
 datos/
 
 .idea/
 
-# Jupyter
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
 
-# Modelos
 modelos/*.pkl
